@@ -1,4 +1,10 @@
 # TornCityAttackLog
-This checks the number of attacks you did in a chain before the chain is over
+This checks the number of attacks you did in a chain before the chain is over, and after as well
 
-Run this during after the chain has started. This assumes you haven't attacked anyone that day prior to the star time of your chain
+## Three things are required to use this code
+1. User api key
+2. User ID
+3. Start time of the chain
+
+## Optional data you can add
+* End date (for when the chain has finished)
